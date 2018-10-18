@@ -1,4 +1,4 @@
-(From)[https://blog.csdn.net/benjaminwan/article/details/24816855]
+[From](https://blog.csdn.net/benjaminwan/article/details/24816855)
 
 # About how to use this sh
 cd workdir
