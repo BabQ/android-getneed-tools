@@ -1,7 +1,6 @@
+(From)[https://blog.csdn.net/benjaminwan/article/details/24816855]
+
 # About how to use this sh
-
-From[https://blog.csdn.net/benjaminwan/article/details/24816855]
-
 cd workdir
 
 git clone https://github.com/BabQ/android-getneed-tools.git
