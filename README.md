@@ -2,7 +2,7 @@
 
 cd workdir
 
-git clone 
+git clone https://github.com/BabQ/android-getneed-tools.git
 
 cd android-getneed-tools
 
