@@ -1,5 +1,4 @@
 #/bin/bash
-#by benjaminwan V0.2 and 一氧化二氢 V0.2.1
 
 printf "**************************************\n"
 printf "please put this shell to system folder\n"
